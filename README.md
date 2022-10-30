@@ -15,3 +15,5 @@
 # Run 'npm install -g expo-cli' to install expo 
 # Might have to use 'sudo npm install -g expo-cli' to run as admin
 # To run 'npx expo start'
+
+#Front End Tech- Tailwind CSS and Material UI
